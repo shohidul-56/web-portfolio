@@ -10,10 +10,13 @@ h1{
 }
 .half-width {
     width: 40%;
-    float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img {
     width: 100%;
+}
+.banner {
+    border: 1px solid red;
+    background-image: url("C:\projects\web-portfolio\images\pexels-8moments-1323550.jpg");
 }
